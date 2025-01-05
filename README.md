@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/EVondrus/EVondrus/master/README-banner.png" alt="banner that says Hi! I'm Ellenor - Full-stack developer student with a passion for communication and problem solving that involve creativity and innovation alongside a memoji illustration of Ellenor">
+<img src="https://raw.githubusercontent.com/EVondrus/EVondrus/master/github-banner.png" alt="Image displaying an introduction of Ellenor. Visuals and icons of some of her tech knowledge">
 
 <br>
 
