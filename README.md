@@ -37,17 +37,24 @@
 
 <br>
 
-<!-- Socials -->
+<!-- Footer - Socials and CTA -->
 <div align="center">
+  <!-- Linkedin -->
   <a href="https://www.linkedin.com/in/ellenorvondrus" target="_blank" style="display: inline-flex; align-items: center; text-decoration: none;">
     <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/colored/linkedin.svg" alt="LinkedIn" style="width: 24px; height: 24px; margin-right: 8px;"></a>
+  &nbsp;
   <span>&#11104; Connect with me</span>
   &nbsp;&nbsp;&nbsp;&nbsp;
   &nbsp;&nbsp;&nbsp;&nbsp;
-  &#129063 CHECK OUT MY PROJECTS! &#129063;
+  <!-- Github Repos -->
+  <a href="https://github.com/EVondrus?tab=repositories" target="_blank" style="font-weight: bold; font-size: 18px; text-decoration: none; color: inherit; margin: 0;">
+    &#129063 CHECK OUT MY <span style="color: #0366d6;">PROJECTS</span>! &#129063;</a>
+  <!-- Spacing -->
   &nbsp;&nbsp;&nbsp;&nbsp;
   &nbsp;&nbsp;&nbsp;&nbsp;
+  <!-- Instagram -->
   <span>Peak into my life &#11106;</span>
+  &nbsp;
   <a href="https://www.instagram.com/ella.vondrus/" target="_blank" style="display: inline-flex; align-items: center; text-decoration: none;">
     <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/colored/instagram.svg" alt="Instagram" style="width: 24px; height: 24px; margin-right: 8px;">
   </a>
