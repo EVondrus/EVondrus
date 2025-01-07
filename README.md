@@ -13,12 +13,18 @@
 <br>
 
 <!--Stats-->
-<div align="justify">
-  <a href="https://github.com/Evondrus">
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=EVondrus&theme=jolly" height="180em" />
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EVondrus&theme=jolly" height="180em" />
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EVondrus&theme=jolly" height="180em" />
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EVondrus&theme=jolly" height="180em" />
+<div align="center">
+  <!-- First row with three stats -->
+  <div style="display: flex; justify-content: center; gap: 20px; margin-bottom: 20px;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=EVondrus&theme=jolly" height="180em" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EVondrus&theme=jolly" height="180em" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EVondrus&theme=jolly" height="180em" />
+  </div>
+  
+  <!-- Second row with the long card -->
+  <div>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EVondrus&theme=jolly" height="180em" />
+  </div>
 </div>
 
 <img src="https://komarev.com/ghpvc/?username=EVondrus&label=Profile%20views&color=0e75b6&style=flat" alt="EVondrus" />
