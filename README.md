@@ -13,7 +13,7 @@
 <br>
 
 <!--Stats-->
-<div align="center">
+<div align="justify">
   <a href="https://github.com/Evondrus">
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=EVondrus&theme=jolly" height="180em" />
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EVondrus&theme=jolly" height="180em" />
