@@ -15,7 +15,7 @@
 <!--Stats-->
 <div align="center">
   <!-- First row with three stats -->
-  <div style="display: flex; justify-content: center; gap: 20px; margin-bottom: 20px;">
+  <div style="display: flex; justify-content: center; gap: 20px; margin-bottom: 20px; flex-wrap: nowrap;">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=EVondrus&theme=jolly" height="180em" />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EVondrus&theme=jolly" height="180em" />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EVondrus&theme=jolly" height="180em" />
