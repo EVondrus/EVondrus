@@ -18,9 +18,7 @@
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=EVondrus&theme=jolly" height="180em" />
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EVondrus&theme=jolly" height="180em" />
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EVondrus&theme=jolly" height="180em" />
-    <div align="center">
-      <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EVondrus&theme=jolly" height="180em" />
-    </div>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EVondrus&theme=jolly" height="180em" />
 </div>
 
 <img src="https://komarev.com/ghpvc/?username=EVondrus&label=Profile%20views&color=0e75b6&style=flat" alt="EVondrus" />
