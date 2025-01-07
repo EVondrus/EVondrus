@@ -30,12 +30,9 @@
   </div>
 </div>
 
-<!-- Profile visitors -->
-<img src="https://komarev.com/ghpvc/?username=EVondrus&label=Profile%20views&color=0e75b6&style=flat" alt="EVondrus" />
-
 ---
-
-<br>
+<!-- Profile visitors -->
+<img src="https://komarev.com/ghpvc/?username=EVondrus&label=Github%20views&color=452d6b&style=plastic&abbreviated=true" alt="EVondrus">
 
 <!-- Footer - Socials and CTA -->
 <div align="center">
